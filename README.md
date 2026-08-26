@@ -104,7 +104,8 @@ cd OriginalReversi
 5. **リセット**
    - 「Reset」ボタンで新しいゲームを開始
 
-##スクリーンショット
+## スクリーンショット
+<img width="2544" height="1444" alt="Image" src="https://github.com/user-attachments/assets/fec0a73e-ef1f-4953-824e-49bc2564442b" />
 
 ## 今後の改善案
 - [ ] マルチプレイ対応（人間 vs 人間）
