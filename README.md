@@ -64,9 +64,7 @@ Easy / Normal / Hard
 
 ### コード構造
 - `GameManager.cs`：ゲーム状態管理
-- `AIPlayer.cs`：AI思考ロジック
-- `UIController.cs`：UI操作・表示制御
-- 各責務が明確に分離され、保守性・拡張性を重視
+- など
 
 ## セットアップ方法
 
@@ -76,8 +74,8 @@ Easy / Normal / Hard
 
 ### インストール
 ```bash
-git clone https://github.com/YourUsername/othello-game.git
-cd othello-game
+git clone https://github.com/YourUsername/OriginalReversi.git
+cd OriginalReversi
 ```
 
 ### 実行方法
@@ -106,6 +104,8 @@ cd othello-game
 5. **リセット**
    - 「Reset」ボタンで新しいゲームを開始
 
+##スクリーンショット
+
 ## 今後の改善案
 - [ ] マルチプレイ対応（人間 vs 人間）
 - [ ] 棋譜保存・再生機能
@@ -132,7 +132,7 @@ cd othello-game
 MIT License
 
 ## 作成者
-[Your Name]
+fujimori01
 
 ## 連絡先・フィードバック
 バグ報告や機能提案は [GitHub Issues](https://github.com/YourUsername/othello-game/issues) でお願いします。
